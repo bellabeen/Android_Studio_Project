@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Yuk Mengenal Hewan</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="list">List</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="content_kingdom">Content Kingdom</string>
+    <string name="content_filum">Content Filum</string>
+    <string name="content_kelas">Content Kelas</string>
+    <string name="content_ordo">Content Ordo</string>
+    <string name="content_famili">Content Famili</string>
+    <string name="content_detail">Content Detail</string>
+</resources>
